@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/fatihhozkurt/fatihhozkurt/assets/114291745/fc9d7c27-17e7-4c31-ae94-c468c62a1d09)
 
-<h1 align="center">Hello There 👋, I'm Fatih</h1>
+<h1 align="center">Hello There, I'm Fatih</h1>
 
 - 🌱 I’m currently learning **Java and Spring Boot**
 
