@@ -61,9 +61,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fatihhozkurt&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="171" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatihhozkurt&radius=6&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true&hide_title=false" height="256" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/fatihhozkurt/fatihhozkurt/output/snake.svg" alt="Snake animation" />
-
-###
