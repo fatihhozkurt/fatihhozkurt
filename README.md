@@ -35,25 +35,25 @@
 <h3 align="center">Languages and tools:</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
-  <img width="21" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
-  <img width="21" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-  <img width="21" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="21" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
-  <img width="21" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
-  <img width="21" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="21" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="21" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="21" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
-  <img width="21" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="45" alt="gitlab logo"  />
 </div>
 
