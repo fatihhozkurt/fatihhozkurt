@@ -33,7 +33,7 @@
 ###
 
 <h3 align="center">Languages and tools:</h3>
-<div align="center">
+<div align="center" gap: 15px>
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
