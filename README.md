@@ -13,8 +13,8 @@
 
 <h3 align="center"> </h3>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+<h3 align="left">Connect with me:</h3>
+<div align="left">
   <a href="https://www.linkedin.com/in/fatih-%C3%B6zkurt-93748321a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -28,8 +28,8 @@
 
 ###
 
-<h3 align="center">Languages and tools:</h3>
-<div align="center" gap: 15px>
+<h3 align="left">Languages and tools:</h3>
+<div align="left" gap: 15px>
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
@@ -55,8 +55,8 @@
 
 ###
 
-<h3 align="center">Stats:</h3>
-<div align="center">
+<h3 align="left">Stats:</h3>
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihhozkurt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2&custom_title=Most%20Used%20Technologies" height="171" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=fatihhozkurt&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="171" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatihhozkurt&radius=6&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true&hide_title=false" height="256" alt="activity-graph graph"  />
