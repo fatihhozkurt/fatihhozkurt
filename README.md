@@ -15,8 +15,6 @@
 
 </p>
 
-###
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/fatih-%C3%B6zkurt-93748321a/" target="_blank">
