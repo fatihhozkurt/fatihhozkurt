@@ -1,55 +1,73 @@
 ![github-header-image](https://github.com/fatihhozkurt/fatihhozkurt/assets/114291745/fc9d7c27-17e7-4c31-ae94-c468c62a1d09)
 
+###
+
 <h1 align="center">Hi there, I'm Fatih</h1>
 
-- 🕐 Please don't worry if you can't see any commits these days, trying to achieve things in my field. 
 
-- 🧑🏻‍💻 I’m currently working on **Spring Boot and it's featuers such as Spring Security, JWT and JUnit**
+###
 
-- 📫 How to reach me **fatih.ozkurt21@gmail.com**
+<p align="center>
+  
+-🕐 Please don't worry if you can't see any commits these days, trying to achieve things in my field. 
+
+-🧑🏻‍💻 I’m currently working on backend development with **Spring Boot and related technologies such as Spring Security, JWT, and Redis**.
+
+</p>
+
+###
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fatihozkurt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatihozkurt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC3JDYrSojw9NTYCGnzERpiw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fatihozkurt21" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/fatih-%C3%B6zkurt-93748321a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:fatih.ozkurt21@gmail.com?subject=About%20giving%20you%20a%20position%20chance%20in%20our%20company%20%F0%9F%98%8A" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.youtube.com/@fatihozkurt21" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="45" alt="gitlab logo"  />
+</div>
 
+###
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihhozkurt&" alt="fatihhozkurt" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihhozkurt&show_icons=true&locale=en&layout=compact" alt="fatihhozkurt" /> </div>
+<h3 align="left">Stats:</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihhozkurt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2&custom_title=Most%20Used%20Technologies" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatihhozkurt&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="160" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatihhozkurt&radius=6&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true&hide_title=false" height="240" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/fatihhozkurt/fatihhozkurt/output/snake.svg" alt="Snake animation" />
+
+###
