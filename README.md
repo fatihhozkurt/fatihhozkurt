@@ -40,8 +40,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
