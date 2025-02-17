@@ -1,4 +1,4 @@
-![github-header-image (5)](https://github.com/user-attachments/assets/0447dc39-a952-456e-8909-b056c676d1bb)
+![github-header-image (6)](https://github.com/user-attachments/assets/222b620a-c1a8-46e0-af05-fc411127fcda)
 
 
 <h1 align="center">Hi there, I'm Fatih</h1>
