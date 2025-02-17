@@ -32,29 +32,29 @@
 <h3 align="left">Languages and tools:</h3>
 <div align="left" gap:15px>
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=maven" height="45" alt="maven logo"  />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=elasticsearch" height="45" alt="elasticsearch logo"  />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo"  />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 
