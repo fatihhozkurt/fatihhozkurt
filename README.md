@@ -5,7 +5,7 @@
 
 <p align="center>
   
--🕐 Please don't worry if you can't see any commits these days, trying to achieve things in my field. 
+-🕐 Please don't worry if you can't see any commits these days, I'm probably watching tutorials for a few days. 
 
 -🧑🏻‍💻 I’m currently working on backend development with **Spring Boot and related technologies such as Spring Security, JWT, and Redis**.
 
@@ -29,26 +29,32 @@
 ###
 
 <h3 align="left">Languages and tools:</h3>
-<div align="left" gap: 15px>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
-  <img width="15" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
-  <img width="15" />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=maven" height="45" alt="maven logo"  />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-  <img width="15" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="15" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
-  <img width="15" />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="45" alt="elasticsearch logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="15" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="15" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="15" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="45" alt="gitlab logo"  />
 </div>
 
 ###
