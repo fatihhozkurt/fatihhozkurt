@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/fatihhozkurt/fatihhozkurt/assets/114291745/fc9d7c27-17e7-4c31-ae94-c468c62a1d09)
+![github-header-image](https://github.com/user-attachments/assets/ebde4cba-0a97-4fad-9bd1-096786f46297)
 
 
 <h1 align="center">Hi there, I'm Fatih</h1>
