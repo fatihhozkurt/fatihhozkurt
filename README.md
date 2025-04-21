@@ -31,31 +31,31 @@
 
 <h3 align="left">Languages and tools:</h3>
 <div align="left" gap:15px>
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" title="java"/>
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo" title="spring boot"/>
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=maven" height="45" alt="maven logo"  />
+  <img src="https://skillicons.dev/icons?i=maven" height="45" alt="maven logo" title="maven"/>
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo" title="postgresql"/>
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" title="mysql"/>
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo" title="redis"/>
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=elasticsearch" height="45" alt="elasticsearch logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo" title="aws s3"/>
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo" title="postman"/>
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo" title="html"/>
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" title="tailwind"/>
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" title="git"/>
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" title="github"/>
 </div>
 
 ###
