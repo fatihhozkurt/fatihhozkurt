@@ -1,0 +1,29 @@
+spring:
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/fatihozkurtcom}
+    username: ${DB_USERNAME:postgres}
+    password: ${DB_PASSWORD:postgres}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+    properties:
+      hibernate:
+        format_sql: true
+    show-sql: false
+  data:
+    redis:
+      host: ${REDIS_HOST:localhost}
+      port: ${REDIS_PORT:6379}
+
+app:
+  storage:
+    enabled: ${APP_STORAGE_ENABLED:true}
+    endpoint: ${APP_STORAGE_ENDPOINT:http://localhost:9000}
+  security:
+    require-https: false
+    cookies:
+      secure: false
+      same-site: Lax
+  docs:
+    enabled: true

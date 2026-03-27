@@ -1,0 +1,52 @@
+spring:
+  datasource:
+    url: ${DB_URL}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+    properties:
+      hibernate:
+        format_sql: false
+    show-sql: false
+  data:
+    redis:
+      host: ${REDIS_HOST}
+      port: ${REDIS_PORT:6379}
+      repositories:
+        enabled: false
+
+server:
+  forward-headers-strategy: framework
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health
+  endpoint:
+    health:
+      show-details: never
+
+logging:
+  level:
+    root: INFO
+    org.springframework.security: INFO
+    com.fatihozkurt.fatihozkurtcom: INFO
+
+app:
+  storage:
+    enabled: ${APP_STORAGE_ENABLED:true}
+    endpoint: ${APP_STORAGE_ENDPOINT:http://minio:9000}
+  security:
+    require-https: ${APP_REQUIRE_HTTPS:true}
+    cookies:
+      secure: ${APP_COOKIE_SECURE:true}
+      same-site: ${APP_COOKIE_SAMESITE:Strict}
+  admin:
+    bootstrap:
+      enabled: ${ADMIN_BOOTSTRAP_ENABLED:false}
+  docs:
+    enabled: false
