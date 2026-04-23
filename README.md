@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Fatih 👋</h1>
 
 <p align="center">
-🕐 If you can't see commits for a while, I'm probably in a sprint at my day job.<br/>
 🧑🏻‍💻 Backend developer focused on <b>secure, scalable and observable systems</b>.
 </p>
 
