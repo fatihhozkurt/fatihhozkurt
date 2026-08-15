@@ -1,64 +1,194 @@
-<h1 align="center">Hi there, I'm Fatih 👋</h1>
+<div align="center">
 
-<p align="center">
-🧑🏻‍💻 Backend developer focused on <b>secure, scalable and observable systems</b>.
-</p>
+<img src="./assets/hero.svg" width="100%" alt="Fatih Özkurt — Java Backend Developer"/>
 
----
+<br/>
 
-## Connect with me
-<p>
-<a href="https://www.linkedin.com/in/fatih-%C3%B6zkurt-93748321a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:fatih.ozkurt21@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-</p>
+<a href="https://fatihozkurt.com">🌐 <b>Portfolio</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/fatihozkurt/">💼 <b>LinkedIn</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://medium.com/@fatihozkurt">✍️ <b>Medium</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:fatih.ozkurt21@gmail.com">✉️ <b>Email</b></a>
 
----
+</div>
 
-# Tech Stack
+<br/>
 
-## Backend & Frameworks
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
-![MapStruct](https://img.shields.io/badge/MapStruct-2F3134?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-111827?style=flat-square)
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
----
+## `01` — About
 
-## Databases & Search
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
-![Database%20Design](https://img.shields.io/badge/Database%20Design-2C3E50?style=flat-square)
-![Normalization](https://img.shields.io/badge/Normalization-34495E?style=flat-square)
+I'm a **Java Backend Developer** with hands-on experience working on **production-grade enterprise backend systems**.
 
----
+My work focuses on backend challenges around **API integrations, data processing, messaging, caching, relational persistence, asynchronous workflows, reliability and performance**.
 
-## Messaging & API Technologies
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-0B5CAD?style=flat-square)
+I enjoy going beyond framework abstractions to understand how backend technologies actually work — and turning that understanding into **maintainable engineering solutions**.
 
----
+```text
+fatih@backend:~$ profile
 
-## DevOps, Migration & Tooling
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat-square&logo=liquibase&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  role        → Java Backend Developer
+  ecosystem   → Java / Spring Boot
+  mindset     → understand the system, not only the abstraction
+  interests   → data · messaging · APIs · distributed systems
+  deepening   → gRPC · Protocol Buffers · HTTP/2
+```
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-# GitHub Stats
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatihhozkurt&theme=tokyo-night&hide_border=true"/>
-</p>
+## `02` — Engineering Toolbox
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Core Backend
+
+`Java` `Spring Boot` `Spring Data JPA` `Spring Security` `Microservices`
+
+<br/>
+
+<sub>Application design · Persistence · Security</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Data & Search
+
+`PostgreSQL` `SQL` `Redis` `OpenSearch`
+
+<br/>
+
+<sub>Relational Databases · Database Design · Data Modeling</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📨 Messaging
+
+`Apache Kafka` `RabbitMQ`
+
+<br/>
+
+<sub>Event-driven workflows · Asynchronous processing</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 API Communication
+
+`REST` `GraphQL` `SOAP` `gRPC`
+
+<br/>
+
+<sub>API integration · Service communication</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 Data Lifecycle
+
+`Liquibase` `Flyway` `MinIO`
+
+<br/>
+
+<sub>Schema migrations · Object storage</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Engineering
+
+`Docker` `Git` `Unit Testing`
+
+<br/>
+
+<sub>Containerization · Version control · Testing</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`Java`
+&nbsp;→&nbsp;
+`Spring`
+&nbsp;→&nbsp;
+`Data`
+&nbsp;→&nbsp;
+`Messaging`
+&nbsp;→&nbsp;
+`APIs`
+&nbsp;→&nbsp;
+`Production`
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `03` — Current Focus
+
+<div align="center">
+
+<img src="./assets/focus.svg" width="100%" alt="gRPC to Protocol Buffers to HTTP/2"/>
+
+</div>
+
+> I like learning backend technologies from the inside out — understanding not only **how to use them**, but also **why they behave the way they do**.
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `04` — Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=fatihhozkurt&bg_color=0D1117&color=8B949E&line=F59E0B&point=000000&area=false&hide_border=true&radius=8&custom_title=Fatih%20Özkurt's%20Contribution%20Graph"
+  width="100%"
+  alt="Fatih Özkurt's Contribution Graph"
+/>
+
+<br/>
+
+`commit`
+&nbsp;→&nbsp;
+`learn`
+&nbsp;→&nbsp;
+`build`
+&nbsp;→&nbsp;
+`improve`
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<div align="center">
+
+### `</>` Java Backend Developer
+
+**İstanbul, Türkiye**
+
+<sub>Building backend systems one abstraction layer deeper.</sub>
+
+<br/><br/>
+
+<a href="https://fatihozkurt.com">fatihozkurt.com</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/fatihozkurt/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://medium.com/@fatihozkurt">Medium</a>
+
+</div>
