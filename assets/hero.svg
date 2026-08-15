@@ -5,33 +5,25 @@
       <stop offset=".52" stop-color="#0D1117"/>
       <stop offset="1" stop-color="#121820"/>
     </linearGradient>
-
-    <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
-      gradientTransform="translate(860 35) rotate(135) scale(340 250)">
+    <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(860 35) rotate(135) scale(340 250)">
       <stop stop-color="#F59E0B" stop-opacity=".40"/>
       <stop offset=".42" stop-color="#F59E0B" stop-opacity=".12"/>
       <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
     </radialGradient>
-
-    <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
-      gradientTransform="translate(730 235) rotate(-35) scale(330 180)">
+    <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(730 235) rotate(-35) scale(330 180)">
       <stop stop-color="#FB923C" stop-opacity=".18"/>
       <stop offset="1" stop-color="#FB923C" stop-opacity="0"/>
     </radialGradient>
-
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
       <path d="M28 0H0V28" fill="none" stroke="#8B949E" stroke-opacity=".045"/>
     </pattern>
-
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#F59E0B"/>
       <stop offset="1" stop-color="#FB923C"/>
     </linearGradient>
-
     <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="24"/>
     </filter>
-
     <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
       <feGaussianBlur stdDeviation="5" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -45,31 +37,9 @@
     <animate attributeName="cx" values="820;890;820" dur="11s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="30;58;30" dur="9s" repeatCount="indefinite"/>
   </ellipse>
-
   <ellipse cx="735" cy="230" rx="320" ry="150" fill="url(#g2)" filter="url(#blur)">
     <animate attributeName="cx" values="680;790;680" dur="13s" repeatCount="indefinite"/>
   </ellipse>
-
-  <!-- subtle data trails -->
-  <g stroke="#F59E0B" stroke-linecap="round">
-    <path d="M650 78 C735 78, 760 45, 930 45" stroke-opacity=".22" stroke-width="1.4" stroke-dasharray="7 10">
-      <animate attributeName="stroke-dashoffset" from="0" to="-34" dur="3.2s" repeatCount="indefinite"/>
-    </path>
-    <path d="M650 108 C755 108, 780 88, 952 88" stroke-opacity=".16" stroke-width="1.2" stroke-dasharray="7 10">
-      <animate attributeName="stroke-dashoffset" from="0" to="-34" dur="4.1s" repeatCount="indefinite"/>
-    </path>
-    <path d="M650 138 C760 138, 800 132, 930 132" stroke-opacity=".12" stroke-width="1.1" stroke-dasharray="7 10">
-      <animate attributeName="stroke-dashoffset" from="0" to="-34" dur="5.0s" repeatCount="indefinite"/>
-    </path>
-  </g>
-
-  <!-- moving packets -->
-  <circle r="3.5" fill="#F59E0B" filter="url(#glow)">
-    <animateMotion dur="3.2s" repeatCount="indefinite" path="M650 78 C735 78, 760 45, 930 45"/>
-  </circle>
-  <circle r="3" fill="#FB923C" filter="url(#glow)">
-    <animateMotion dur="4.1s" repeatCount="indefinite" path="M650 108 C755 108, 780 88, 952 88"/>
-  </circle>
 
   <!-- identity -->
   <rect x="70" y="55" width="4" height="137" rx="2" fill="url(#accent)"/>
@@ -77,19 +47,44 @@
     <animate attributeName="opacity" values=".5;1;.5" dur="2.6s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="100" y="78" fill="#F59E0B"
-        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
-        font-size="13" font-weight="700" letter-spacing="2.4">JAVA BACKEND DEVELOPER</text>
+  <text x="100" y="78" fill="#F59E0B" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2.4">JAVA BACKEND DEVELOPER</text>
+  <text x="96" y="132" fill="#F0F6FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="760" letter-spacing="-1">Fatih Özkurt</text>
+  <text x="98" y="168" fill="#C9D1D9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500">Building reliable, maintainable and scalable backend systems.</text>
+  <text x="98" y="199" fill="#8B949E" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5">Java  •  Spring Boot  •  Microservices  •  API Communication</text>
 
-  <text x="96" y="132" fill="#F0F6FC"
-        font-family="Inter,Segoe UI,Arial,sans-serif"
-        font-size="46" font-weight="760" letter-spacing="-1">Fatih Özkurt</text>
+  <!-- relation graph -->
+  <g stroke="#F59E0B" stroke-linecap="round">
+    <path d="M705 108 C755 108, 770 72, 820 72" stroke-opacity=".22" stroke-width="1.4" stroke-dasharray="7 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="-34" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M705 108 C755 108, 770 150, 820 150" stroke-opacity=".18" stroke-width="1.25" stroke-dasharray="7 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="-34" dur="4.1s" repeatCount="indefinite"/>
+    </path>
+  </g>
 
-  <text x="98" y="168" fill="#C9D1D9"
-        font-family="Inter,Segoe UI,Arial,sans-serif"
-        font-size="17" font-weight="500">Reliable backend systems with Java &amp; Spring Boot.</text>
+  <circle r="3.5" fill="#F59E0B" filter="url(#glow)">
+    <animateMotion dur="3.2s" repeatCount="indefinite" path="M705 108 C755 108, 770 72, 820 72"/>
+  </circle>
+  <circle r="3" fill="#FB923C" filter="url(#glow)">
+    <animateMotion dur="4.1s" repeatCount="indefinite" path="M705 108 C755 108, 770 150, 820 150"/>
+  </circle>
 
-  <text x="98" y="199" fill="#8B949E"
-        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
-        font-size="12.5">data  •  messaging  •  APIs  •  production</text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700">
+    <!-- Java core -->
+    <rect x="585" y="80" width="120" height="44" rx="14" fill="#111827" stroke="#2B3541"/>
+    <circle cx="610" cy="102" r="6" fill="#F59E0B"/>
+    <text x="626" y="107" fill="#F0F6FC">Java</text>
+
+    <!-- Spring Boot -->
+    <rect x="820" y="50" width="150" height="44" rx="14" fill="#111827" stroke="#2B3541"/>
+    <circle cx="845" cy="72" r="6" fill="#6DB33F"/>
+    <text x="861" y="77" fill="#F0F6FC">Spring Boot</text>
+
+    <!-- Microservices -->
+    <rect x="820" y="128" width="150" height="44" rx="14" fill="#111827" stroke="#2B3541"/>
+    <circle cx="845" cy="150" r="6" fill="#60A5FA"/>
+    <text x="861" y="155" fill="#F0F6FC">Microservices</text>
+
+    <circle cx="705" cy="108" r="4" fill="#F59E0B" filter="url(#glow)"/>
+  </g>
 </svg>
