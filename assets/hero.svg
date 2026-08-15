@@ -1,0 +1,41 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#090D12"/><stop offset="0.48" stop-color="#0D1117"/><stop offset="1" stop-color="#121820"/>
+    </linearGradient>
+    <radialGradient id="amberGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1160 75) rotate(128) scale(420 560)">
+      <stop stop-color="#F59E0B" stop-opacity=".34"/><stop offset=".42" stop-color="#D97706" stop-opacity=".12"/><stop offset="1" stop-color="#D97706" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="softGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(920 330) rotate(-28) scale(480 260)">
+      <stop stop-color="#F59E0B" stop-opacity=".14"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="88" y1="0" x2="620" y2="0"><stop stop-color="#F59E0B"/><stop offset="1" stop-color="#FB923C"/></linearGradient>
+    <filter id="blur40" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="40"/></filter>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#8B949E" stroke-opacity=".055" stroke-width="1"/></pattern>
+    <linearGradient id="fadeBottom" x1="700" y1="285" x2="700" y2="360"><stop stop-color="#0D1117" stop-opacity="0"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+  </defs>
+  <rect width="1400" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1400" height="360" rx="24" fill="url(#grid)"/>
+  <rect width="1400" height="360" rx="24" fill="url(#amberGlow)"><animate attributeName="opacity" values=".72;1;.72" dur="7s" repeatCount="indefinite"/></rect>
+  <ellipse cx="940" cy="335" rx="430" ry="160" fill="url(#softGlow)" filter="url(#blur40)"><animate attributeName="cx" values="890;1010;890" dur="11s" repeatCount="indefinite"/></ellipse>
+  <rect x="76" y="64" width="5" height="198" rx="2.5" fill="url(#accent)"/>
+  <circle cx="78.5" cy="64" r="4.5" fill="#F59E0B" filter="url(#glow)"><animate attributeName="opacity" values=".45;1;.45" dur="2.8s" repeatCount="indefinite"/></circle>
+  <text x="112" y="96" fill="#F59E0B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="3">JAVA BACKEND DEVELOPER</text>
+  <text x="108" y="168" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="760" letter-spacing="-1.5">Fatih Özkurt</text>
+  <text x="110" y="211" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">Building reliable, maintainable and scalable backend systems.</text>
+  <text x="110" y="252" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Java  •  Spring Boot  •  Data  •  Messaging  •  API Communication</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+    <path d="M945 128 C1015 128, 1020 78, 1080 78" stroke="#F59E0B" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="8 8"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="2.3s" repeatCount="indefinite"/></path>
+    <path d="M945 128 C1015 128, 1020 178, 1080 178" stroke="#F59E0B" stroke-opacity=".34" stroke-width="1.5" stroke-dasharray="8 8"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="2.7s" repeatCount="indefinite"/></path>
+    <path d="M945 128 C1010 128, 1022 278, 1080 278" stroke="#F59E0B" stroke-opacity=".28" stroke-width="1.5" stroke-dasharray="8 8"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="3.2s" repeatCount="indefinite"/></path>
+    <rect x="822" y="99" width="123" height="58" rx="14" fill="#161B22" stroke="#30363D"/><circle cx="846" cy="128" r="6" fill="#F59E0B"/><text x="862" y="132" fill="#F0F6FC" font-weight="700">Spring</text>
+    <rect x="1080" y="48" width="150" height="58" rx="14" fill="#161B22" stroke="#30363D"/><circle cx="1105" cy="77" r="6" fill="#4169E1"/><text x="1121" y="81" fill="#F0F6FC" font-weight="700">PostgreSQL</text>
+    <rect x="1080" y="148" width="150" height="58" rx="14" fill="#161B22" stroke="#30363D"/><circle cx="1105" cy="177" r="6" fill="#DC382D"/><text x="1121" y="181" fill="#F0F6FC" font-weight="700">Redis</text>
+    <rect x="1080" y="248" width="150" height="58" rx="14" fill="#161B22" stroke="#30363D"/><circle cx="1105" cy="277" r="6" fill="#AAB2BD"/><text x="1121" y="281" fill="#F0F6FC" font-weight="700">Kafka</text>
+    <circle r="3.6" fill="#F59E0B" filter="url(#glow)"><animateMotion dur="2.3s" repeatCount="indefinite" path="M945 128 C1015 128, 1020 78, 1080 78"/></circle>
+    <circle r="3.3" fill="#FB923C" filter="url(#glow)"><animateMotion dur="2.7s" repeatCount="indefinite" path="M945 128 C1015 128, 1020 178, 1080 178"/></circle>
+    <circle r="3.1" fill="#FBBF24" filter="url(#glow)"><animateMotion dur="3.2s" repeatCount="indefinite" path="M945 128 C1010 128, 1022 278, 1080 278"/></circle>
+  </g>
+  <rect y="292" width="1400" height="68" fill="url(#fadeBottom)"/>
+</svg>
