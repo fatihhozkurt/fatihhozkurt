@@ -17,6 +17,7 @@
 <br/>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
+
 ## `01` — About
 
 I'm a **Java Backend Developer** with hands-on experience working on **production-grade enterprise backend systems**.
