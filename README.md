@@ -48,18 +48,12 @@ fatih@backend:~$ profile
 
 `Java` `Spring Boot` `Spring Data JPA` `Spring Security` `Microservices`
 
-<br/>
-
-<sub>Application design · Persistence · Security</sub>
-
 </td>
 <td width="50%" valign="top">
 
 ### 🗄️ Data & Search
 
 `PostgreSQL` `SQL` `Redis` `OpenSearch`
-
-<br/>
 
 <sub>Relational Databases · Database Design · Data Modeling</sub>
 
@@ -73,9 +67,7 @@ fatih@backend:~$ profile
 
 `Apache Kafka` `RabbitMQ`
 
-<br/>
-
-<sub>Event-driven workflows · Asynchronous processing</sub>
+<sub>Event-driven workflows · Async processing</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -83,8 +75,6 @@ fatih@backend:~$ profile
 ### 🔌 API Communication
 
 `REST` `GraphQL` `SOAP` `gRPC`
-
-<br/>
 
 <sub>API integration · Service communication</sub>
 
@@ -98,8 +88,6 @@ fatih@backend:~$ profile
 
 `Liquibase` `Flyway` `MinIO`
 
-<br/>
-
 <sub>Schema migrations · Object storage</sub>
 
 </td>
@@ -108,8 +96,6 @@ fatih@backend:~$ profile
 ### 🛠️ Engineering
 
 `Docker` `Git` `Unit Testing`
-
-<br/>
 
 <sub>Containerization · Version control · Testing</sub>
 
@@ -168,27 +154,5 @@ fatih@backend:~$ profile
 `build`
 &nbsp;→&nbsp;
 `improve`
-
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-<div align="center">
-
-### `</>` Java Backend Developer
-
-**İstanbul, Türkiye**
-
-<sub>Building backend systems one abstraction layer deeper.</sub>
-
-<br/><br/>
-
-<a href="https://fatihozkurt.com">fatihozkurt.com</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/fatihozkurt/">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://medium.com/@fatihozkurt">Medium</a>
 
 </div>
