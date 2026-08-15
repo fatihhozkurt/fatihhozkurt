@@ -91,18 +91,6 @@ Just a backend developer who enjoys designing **beautiful** systems
 
 <div align="center">
 
-`Java`
-&nbsp;→&nbsp;
-`Spring`
-&nbsp;→&nbsp;
-`Data`
-&nbsp;→&nbsp;
-`Messaging`
-&nbsp;→&nbsp;
-`APIs`
-&nbsp;→&nbsp;
-`Production`
-
 </div>
 
 <br/>
